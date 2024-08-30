@@ -4,6 +4,33 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Actually, Welcome to My Website
+
+**This is an Important Line<sup>TM</sup>**
+
+_You can kiss a hundred boys in bars_
+_Shoot another shot, try to stop the feeling_
+_You can say it's just the way you are_
+_Make a new excuse, another stupid reason_
+_Good **luck**, babe_
+
+~~this song is totally not stuck in my head what are you talking about~~
+
+> _~~[but like](https://www.youtube.com/watch?v=VZ-oGLluGAc)~~_
+
+
+Anyway, here's your to-do list:
+[x] listen to Chappell Roan
+[x] open up  CS 193 Homework 1
+[x] close CS 193 HW1 and go back to Chappell Roan
+
+> [!WARNING]
+> Prolonged exposure to Chappell Roan may cause swooning.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
