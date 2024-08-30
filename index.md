@@ -16,7 +16,7 @@ _Good **luck**, babe_
 
 ~~this song is totally not stuck in my head what are you talking about~~
 
-<sub><sup>_~~[but like](https://www.youtube.com/watch?v=VZ-oGLluGAc)~~_</sup></sub>
+<sub><sup>_[but like](https://www.youtube.com/watch?v=VZ-oGLluGAc)_</sup></sub>
 
 
 Anyway, here's your to-do list:
@@ -26,6 +26,8 @@ Anyway, here's your to-do list:
 
 > [!WARNING]
 > Prolonged exposure to Chappell Roan may cause swooning.
+
+
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
