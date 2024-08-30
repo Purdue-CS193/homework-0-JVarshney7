@@ -1,7 +1,7 @@
 # Jia Varshney's First CS193 Homework
 - I like that it's a casual environments taught by our peers
 - The icebreakers are wild
-- you're fun people?
+- you guys seem fun
 
 ## Welcome to GitHub Pages
 
